@@ -1,0 +1,28 @@
+^C:\4TH YEAR\CODEALPHA7\TASK 3 FINAL\FLUTTER_SIMPLE_QUIZ_APP\BUILD\WINDOWS\CMAKEFILES\03137B17FA56A325083D87CADBCDDFCD\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\kotha\Downloads\flutter_windows_3.13.8-stable\flutter "PROJECT_DIR=C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App" FLUTTER_ROOT=C:\Users\kotha\Downloads\flutter_windows_3.13.8-stable\flutter "FLUTTER_EPHEMERAL_DIR=C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\windows\flutter\ephemeral" "PROJECT_DIR=C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App" "FLUTTER_TARGET=C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8wNTQ1Zjg3MDVkZjMwMTg3N2Q3ODcxMDdiYWMxYTZlOWZjOWVlMWFkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\.dart_tool\package_config.json" C:/Users/kotha/Downloads/flutter_windows_3.13.8-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\4TH YEAR\CODEALPHA7\TASK 3 FINAL\FLUTTER_SIMPLE_QUIZ_APP\BUILD\WINDOWS\CMAKEFILES\8A540B10B883B1796752A32C184BEC92\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\4TH YEAR\CODEALPHA7\TASK 3 FINAL\FLUTTER_SIMPLE_QUIZ_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/windows" "-BC:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/build/windows" --check-stamp-file "C:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

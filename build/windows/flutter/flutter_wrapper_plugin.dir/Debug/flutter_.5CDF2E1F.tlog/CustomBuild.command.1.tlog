@@ -1,0 +1,10 @@
+^C:\4TH YEAR\CODEALPHA7\TASK 3 FINAL\FLUTTER_SIMPLE_QUIZ_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/windows" "-BC:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/build/windows" --check-stamp-file "C:/4th year/codealpha7/task 3 final/Flutter_Simple_Quiz_App/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

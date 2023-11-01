@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\build\windows\CMakeFiles\03137b17fa56a325083d87cadbcddfcd\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\build\windows\CMakeFiles\8a540b10b883b1796752a32c184bec92\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\4th year\codealpha7\task 3 final\Flutter_Simple_Quiz_App\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FDA9D663-ABE1-3A1E-AEDF-6D6A4226A3E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
